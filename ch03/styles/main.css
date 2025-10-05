@@ -14,7 +14,7 @@ body {
 header {
     display: flex; /* Aligns the image and text horizontally */
     align-items: center; /* Centers items vertically */
-    border-bottom: 1px solid #ccc;
+    /* border-bottom: 1px solid #ccc; */
     padding-bottom: 10px;
     margin-bottom: 20px;
 }
